@@ -4,8 +4,6 @@
 - **Package ID:** `id.or.mta.presensipmd`
 - **Target Platform:** Android (minSdk: 21, targetSdk: 34)
 - **Framework:** Flutter 3.47.2 / Dart 3.13.2+
-- **File APK Release:** [`presensi-pmd-v1.0.0.apk`](./presensi-pmd-v1.0.0.apk) (53 MB)
-- **Target REST API:** `https://pemudamtasragen.my.id/api/v1`
 
 ---
 
@@ -23,13 +21,6 @@
 5. **Header Statistik Realtime (Pinned Top):** Pantau persentase dan jumlah Hadir, Izin, Sakit, Alpa, serta status antrean sinkronisasi offline.
 6. **Ekspor & Berbagi WhatsApp Instan:** Satu sentuhan untuk membagikan rekapitulasi kehadiran rapi ke grup WhatsApp pengurus cabang.
 7. **Kunci Sesi Kegiatan:** Fitur finalisasi kegiatan presensi agar data tidak berubah setelah selesai.
-
----
-
-## 🔑 Akun Uji Coba Lapangan
-- **Username:** `jenar`
-- **Password:** `234234`
-- **Peran:** Sekretaris Cabang Jenar
 
 ---
 
